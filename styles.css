@@ -3,17 +3,24 @@
 }
 
 .nome-da-julia{
-    color: rgb(213, 115, 153);
-    font-size: 17px;
-}
-
-.paragrafo{
-    color: rgb(213, 115, 153);
-    font-size: 25px;
-}
-
-.paragrafo{
+    color: rgb(168, 96, 128);
     position: fixed;
-    top: 570px;
+    font: normal 25px fantasy, verdana, serify; 
+    left: 200px;
+
 }
+
+.paragrafo{
+    color: rgb(168, 96, 128);
+    position: fixed;
+    top: 390px;
+    font: normal 50px fantasy, verdana, serif;
+    width: 600px ; 
+    left: 200px;
+
+}
+
+
+
+
 
