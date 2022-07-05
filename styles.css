@@ -1,4 +1,4 @@
-*{
+html{
     background-color: pink;
 }
 
@@ -38,6 +38,33 @@
 
 }
 
+
+.titulo{
+    color: rgb(168, 96, 128);
+    font: normal 25px verdana, fanatsy, serif;
+    position: fixed;
+    left: 50px;
+ 
+}
+
+.primeiro{
+    color: rgb(168, 96, 128);
+    font: normal 25px verdana, fanatasy, serif;
+    top: 130px;
+    width: 550px;
+    left: 50px;
+    position: fixed;
+}
+
+
+.form{
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+    margin-top: 1em;
+}
 
 
 
