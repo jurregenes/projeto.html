@@ -2,13 +2,13 @@
     background-color: pink;
 }
 
-.nome-da-julia{
+.nome{
     color: rgb(168, 96, 128);
     position: fixed;
-    font: normal 25px fantasy, verdana, serify; 
-    left: 200px;
-
+    font: normal 25px fantasy, verdana, serif; 
+    left: 50px
 }
+    
 
 .paragrafo{
     color: rgb(168, 96, 128);
@@ -16,10 +16,27 @@
     top: 390px;
     font: normal 50px fantasy, verdana, serif;
     width: 600px ; 
-    left: 200px;
+    left: 50px;
 
 }
 
+.texto{
+    color: rgb(14, 14, 14);
+    position: fixed;
+    font: normal 17px fantasy, verdana, serif;
+    width: 200px;
+    right: 140px;
+    
+}
+
+.texto2{
+    color: rgb(14, 14, 14);
+    position:fixed;
+    font: normal 17px fantasy, verdana, serif;
+    width: 200px;
+    right: 20px;
+
+}
 
 
 
