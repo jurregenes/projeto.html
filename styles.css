@@ -22,16 +22,12 @@ html{
 
 .texto{
     color: rgb(14, 14, 14);
-    position: fixed;
     font: normal 17px fantasy, verdana, serif;
-    width: 200px;
-    right: 140px;
-    
 }
 
 .texto2{
     color: rgb(14, 14, 14);
-    position:fixed;
+    position: fixed;
     font: normal 17px fantasy, verdana, serif;
     width: 200px;
     right: 20px;
@@ -66,5 +62,23 @@ html{
     margin-top: 1em;
 }
 
+.menu{
+    text-align: right;
+    padding: 0 30px;
+}
 
+.menu a{
+    margin-left: 10px;
+    color: rgb(14, 14, 14);
+    font: normal 17px fantasy, verdana, serif;
+}
 
+.contato{
+    color: rgb(168, 96, 128);
+    width: 800px;
+    margin-top: 50px;
+    right: 500px;
+    object-position: 10px;
+    font: normal 25px verdana, fanatasy, serif;
+    
+}
