@@ -64,7 +64,7 @@ html{
 
 .menu{
     text-align: right;
-    padding: 0 30px;
+    padding: 0 50px;
 }
 
 .menu a{
@@ -76,9 +76,48 @@ html{
 .contato{
     color: rgb(168, 96, 128);
     width: 800px;
-    margin-top: 50px;
-    right: 500px;
+    margin-top: 60px;
+    padding: 0 30px;
     object-position: 10px;
     font: normal 25px verdana, fanatasy, serif;
     
+}
+
+.name{
+    padding: 40px;
+    width: 100px;
+    
+}
+
+.last{
+    margin-top: 10px;
+    margin-left: 20%;
+    margin-top: -4%;
+    
+}
+
+.email{
+    padding: 40px;
+    width: 100px;
+}
+
+.message{
+    padding: 40px;
+    width: 100px;
+    margin-top: -3%;
+}
+
+.button{
+    padding: 40px;
+    margin-top: -3%;
+}
+
+.texto3{
+    margin-top: -20%;
+    margin-right: 7%;
+}
+
+.last2{
+    margin-top: -2%;
+    margin-left: 20%;
 }
