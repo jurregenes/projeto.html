@@ -64,7 +64,7 @@ html{
 
 .menu{
     text-align: right;
-    padding: 0 50px;
+    padding: 0 200px;
 }
 
 .menu a{
@@ -122,8 +122,16 @@ html{
     margin-left: 20%;
 }
 
-.menu{
+.menu2{
     margin-top: -28%;
+    text-align: right;
+    padding: 0 50px;
+}
+
+.menu2 a{
+    margin-left: 10px;
+    color: rgb(14, 14, 14);
+    font: normal 17px fantasy, verdana, serif;
 }
 
 .buraco{
