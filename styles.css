@@ -64,7 +64,7 @@ html{
 }
 
 .menu{
-    margin-top: -56%;
+    margin-top: -57%;
     text-align: right;
     padding: 0 200px;
 }
@@ -216,8 +216,10 @@ html{
     padding: 0 40px;
     width: 800px;
     margin-top: 250px;
-
-
 }
 
-
+.img{
+    width: 35px;
+    padding: 0 1175px;
+    margin-top: -5;
+}
