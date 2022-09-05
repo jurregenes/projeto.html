@@ -3,7 +3,7 @@ html{
 }
 
 .nome{
-    color: rgb(168, 96, 128);
+    color:  rgb(199, 10, 10);
     font: normal 25px fantasy, verdana, serif; 
     left: 50px;
     padding: 0 40px;
@@ -12,7 +12,7 @@ html{
 
 .paragrafo{
     margin-top: 400px;
-    color: rgb(168, 96, 128);
+    color:  rgb(199, 10, 10);
     top: 390px;
     font: normal 60px fantasy, verdana, serif;
     width: 700px ; 
@@ -37,7 +37,7 @@ html{
 
 
 .titulo{
-    color: rgb(168, 96, 128);
+    color:  rgb(199, 10, 10);
     font: normal 25px verdana, fanatsy, serif;
     position: fixed;
     left: 50px;
@@ -45,7 +45,7 @@ html{
 }
 
 .primeiro{
-    color: rgb(168, 96, 128);
+    color:  rgb(199, 10, 10);
     font: normal 25px verdana, fanatasy, serif;
     top: 130px;
     width: 550px;
@@ -64,6 +64,7 @@ html{
 }
 
 .menu{
+    
     margin-top: -56%;
     text-align: right;
     padding: 0 200px;
@@ -77,7 +78,7 @@ html{
 }
 
 .contato{
-    color: rgb(168, 96, 128);
+    color:  rgb(199, 10, 10);
     width: 800px;
     margin-top: 60px;
     padding: 0 40px;
@@ -93,7 +94,6 @@ html{
 }
 
 .last{
-    margin-top: 10px;
     margin-left: 20%;
     margin-top: -4%;
     
@@ -138,14 +138,14 @@ html{
 }
 
 .buraco{
-    color: rgb(168, 96, 128);
+    color:  rgb(199, 10, 10);
     font: normal 25px verdana, fanatasy, serif;
     right: 30px;
     padding: 0 40px;
 }
 
 .texto4{
-    color: rgb(168, 96, 128);
+    color:  rgb(199, 10, 10);
     font: normal 25px fantasy, serif;
     padding: 40px;
     width: 900px;
@@ -154,7 +154,7 @@ html{
 }
 
 .titulo2{
-    color: rgb(168, 96, 128);
+    color:  rgb(199, 10, 10);
     font: normal 25px verdana, fantasy, serif;
     padding: 0 40px;
     margin-top: 70px;
@@ -162,7 +162,7 @@ html{
 }
 
 .texto5{
-    color: rgb(168, 96, 128);
+    color:  rgb(199, 10, 10);
     font: normal 15px fantasy, serif;
     padding: 0 40px;
 }
@@ -175,14 +175,14 @@ html{
 
 .texto7{
     margin-top: 100px;
-    color: rgb(168, 96, 128);
+    color:  rgb(199, 10, 10);
     font: normal 25px verdana, fantasy, serif;
     padding: 0 40px;
 
 }
 
 .texto8{
-    color: rgb(168, 96, 128);
+    color:  rgb(199, 10, 10);
     padding: 0 40px;
 }
 
@@ -194,13 +194,13 @@ html{
 
 .texto10{
     margin-top: 100px;
-    color: rgb(168, 96, 128);
+    color:  rgb(199, 10, 10);
     padding: 0 40px;
     font: normal 25px verdana ,fantasy ,serif;
 } 
 
 .texto11{
-    color: rgb(168, 96, 128);
+    color:  rgb(199, 10, 10);
     padding: 0 40px;
     font: normal 15px fantasy ,serif;  
 }
@@ -212,7 +212,7 @@ html{
 }  
 
 .texto13{
-    color: rgb(168, 96, 128);
+    color: rgb(199, 10, 10);
     font: normal 25px fantasy, serif;
     padding: 0 40px;
     width: 800px;
@@ -220,15 +220,17 @@ html{
 }
 
 .img{
-    width: 35px;
+    width: 30px;
     padding: 0 1175px;
-    
+    margin-inline: 10px;
+    margin-top: -6%;
 
 }
 
 .img2{
-    width: 27px;
+    width: 22px;
     padding: 0 1225px;
+    margin-top: -8%;
     
     
 }
