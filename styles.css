@@ -28,7 +28,6 @@ html{
 
 .texto2{
     color: rgb(14, 14, 14);
-    position: fixed;
     font: normal 17px fantasy, verdana, serif;
     width: 200px;
     right: 20px;
@@ -39,7 +38,6 @@ html{
 .titulo{
     color:  rgb(199, 10, 10);
     font: normal 25px verdana, fanatsy, serif;
-    position: fixed;
     left: 50px;
  
 }
@@ -50,31 +48,21 @@ html{
     top: 130px;
     width: 550px;
     left: 50px;
-    position: fixed;
 }
 
-
-.form{
-    margin: 0 auto;
-    width: 400px;
-    padding: 1em;
-    border: 1px solid #CCC;
-    border-radius: 1em;
-    margin-top: 1em;
-}
 
 .menu{
     
     margin-top: -56%;
     text-align: right;
-    padding: 0 200px;
+    padding: 0 150px;
     margin-left: 10px;
 }
 
 .menu a{
     margin-left: 10px;
     color: rgb(14, 14, 14);
-    font: normal 17px fantasy, verdana, serif;
+    font: normal 15px fantasy, verdana, serif;
 }
 
 .contato{
@@ -82,8 +70,7 @@ html{
     width: 800px;
     margin-top: 60px;
     padding: 0 40px;
-    object-position: 10px;
-    font: normal 25px verdana, fanatasy, serif;
+    font: normal 30px fanatasy, serif;
     
 }
 
@@ -220,20 +207,23 @@ html{
 }
 
 .img{
-    width: 30px;
+    width: 28px;
     padding: 0 1175px;
-    margin-inline: 10px;
-    margin-top: -6%;
+    margin-top: -2%;
+    margin-left: 60px;
+    position: absolute;
 
 }
 
 .img2{
-    width: 22px;
+    width: 17px;
     padding: 0 1225px;
-    margin-top: -8%;
-    
-    
+    position: absolute;
+    margin-left: 60px;
+    margin-top: -2%;
 }
 
-
-
+.menu3 a{
+    color: rgb(199, 10, 10);
+    font: normal 45px fantasy, serif;  
+}
