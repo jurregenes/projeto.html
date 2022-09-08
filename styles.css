@@ -5,30 +5,31 @@ html{
 .nome{
     color:  rgb(199, 10, 10);
     font: normal 25px fantasy, verdana, serif; 
-    left: 50px;
-    padding: 0 40px;
+    padding: 20px;
 }
     
 
 .paragrafo{
     margin-top: 400px;
     color:  rgb(199, 10, 10);
-    top: 390px;
-    font: normal 60px fantasy, verdana, serif;
-    width: 700px ; 
-    left: 50px;
+    top: 400px;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 60px;
+    width: 700px; 
     padding: 0 40px;
 }
 
 
 .texto{
     color: rgb(14, 14, 14);
-    font: normal 17px fantasy, verdana, serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 17px;
 }
 
 .texto2{
     color: rgb(14, 14, 14);
-    font: normal 17px fantasy, verdana, serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 17px;
     width: 200px;
     right: 20px;
 
@@ -37,14 +38,16 @@ html{
 
 .titulo{
     color:  rgb(199, 10, 10);
-    font: normal 25px verdana, fanatsy, serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 25px;
     left: 50px;
  
 }
 
 .primeiro{
     color:  rgb(199, 10, 10);
-    font: normal 25px verdana, fanatasy, serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 25px;
     top: 130px;
     width: 550px;
     left: 50px;
@@ -53,7 +56,7 @@ html{
 
 .menu{
     
-    margin-top: -56%;
+    margin-top: -57%;
     text-align: right;
     padding: 0 150px;
     margin-left: 10px;
@@ -70,7 +73,8 @@ html{
     width: 800px;
     margin-top: 60px;
     padding: 0 40px;
-    font: normal 30px fanatasy, serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 30px;
     
 }
 
@@ -113,7 +117,7 @@ html{
 }
 
 .menu2{
-    margin-top: -28%;
+    margin-top: -31%;
     text-align: right;
     padding: 0 50px;
 }
@@ -121,19 +125,21 @@ html{
 .menu2 a{
     margin-left: 10px;
     color: rgb(14, 14, 14);
-    font: normal 17px fantasy, verdana, serif;
+    font: normal 15px fantasy, verdana, serif;
 }
 
 .buraco{
     color:  rgb(199, 10, 10);
-    font: normal 25px verdana, fanatasy, serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 25px;
     right: 30px;
     padding: 0 40px;
 }
 
 .texto4{
     color:  rgb(199, 10, 10);
-    font: normal 25px fantasy, serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 25px;
     padding: 40px;
     width: 900px;
     margin-top: 650px;
@@ -142,7 +148,8 @@ html{
 
 .titulo2{
     color:  rgb(199, 10, 10);
-    font: normal 25px verdana, fantasy, serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 25px;
     padding: 0 40px;
     margin-top: 70px;
 
@@ -150,20 +157,23 @@ html{
 
 .texto5{
     color:  rgb(199, 10, 10);
-    font: normal 15px fantasy, serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 15px;
     padding: 0 40px;
 }
 
 .texto6{
     padding: 0 500px;
-    font: normal 15px fantasy ,serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 15px;
     margin-top: -7%;
 }
 
 .texto7{
     margin-top: 100px;
     color:  rgb(199, 10, 10);
-    font: normal 25px verdana, fantasy, serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 25px;
     padding: 0 40px;
 
 }
@@ -171,10 +181,13 @@ html{
 .texto8{
     color:  rgb(199, 10, 10);
     padding: 0 40px;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 15px;
 }
 
 .texto9{
-    font: normal 15px fantasy ,serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 15px;
     padding: 0 500px;
     margin-top: -6%;
 }
@@ -183,24 +196,28 @@ html{
     margin-top: 100px;
     color:  rgb(199, 10, 10);
     padding: 0 40px;
-    font: normal 25px verdana ,fantasy ,serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 25px;
 } 
 
 .texto11{
     color:  rgb(199, 10, 10);
     padding: 0 40px;
-    font: normal 15px fantasy ,serif;  
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 15px;
 }
 
 .texto12{
     padding: 0 500px;
-    font: normal 15px fantasy ,serif;  
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 15px; 
     margin-top: -6%;
 }  
 
 .texto13{
     color: rgb(199, 10, 10);
-    font: normal 25px fantasy, serif;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 25px;
     padding: 0 40px;
     width: 800px;
     margin-top: 250px;
@@ -226,6 +243,7 @@ html{
 .menu3 a{
     color: rgb(199, 10, 10);
     font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 40px;
     position: absolute;
     margin-top: 80px;
 }
