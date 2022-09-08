@@ -1,6 +1,5 @@
 html{
-    background-color: rgb(255, 218, 225);
-
+    background-color: rgb(255, 229, 234);
 }
 
 .nome{
@@ -296,4 +295,27 @@ html{
     bottom: -6px;
   }
   
-  
+  .instagram a{
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 30px;
+    color: rgb(199, 10, 10);
+    margin-top: 170px;
+    position: absolute;
+    text-decoration: none;
+    border-bottom-style: solid;
+    border-width: 1px;
+
+  }
+
+  .twitter a{
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 30px;
+    color: rgb(199, 10, 10);
+    margin-top: 170px;
+    position: absolute;
+    text-decoration: none;
+    border-bottom-style: solid;
+    border-width: 1px;
+    margin-left: 170px;
+    
+  }
