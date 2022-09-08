@@ -243,9 +243,10 @@ html{
 .menu3 a{
     color: rgb(199, 10, 10);
     font-family:  "Lucida Console", "Courier New", monospace;
-    font-size: 40px;
+    font-size: 60px;
     position: absolute;
     margin-top: 90px;
+    margin-bottom: 100px;
 }
 
 .seta {
@@ -254,39 +255,40 @@ html{
     display: flex;
     margin-top: 50px;
     transform: rotate(1deg);
-    margin-top: 140px;
-    margin-right: 120px;
+    margin-top: 145px;
+    margin-left: 140px;
   }
   .seta span {
-    width: 50px;
-    height: 5px;
+    width: 43px;
+    height: 4px;
     background-color: rgb(199, 10, 10);
     position: relative;
   }
   .seta span:before,
   .seta span:after {
-    margin-left: 22px;
+    margin-left: 23px;
     content: "";
-    width: 35px;
+    width: 25px;
     height: 80%;
     background-color: rgb(199, 10, 10);
     position: relative;
     display: flex;
   }
   .seta span:before {
-    -moz-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    -o-transform: rotate(45deg);
-    -webkit-transform: rotate(45deg);
-    transform: rotate(45deg);
-    bottom: 11px;
+    -moz-transform: rotate(40deg);
+    -ms-transform: rotate(40deg);
+    -o-transform: rotate(40deg);
+    -webkit-transform: rotate(40deg);
+    transform: rotate(40deg);
+    bottom: 6px;
   }
   .seta span:after {
-    -moz-transform: rotate(-45deg);
-    -ms-transform: rotate(-45deg);
-    -o-transform: rotate(-45deg);
-    -webkit-transform: rotate(-45deg);
-    transform: rotate(-45deg);
-    bottom: -10px;
+    -moz-transform: rotate(-40deg);
+    -ms-transform: rotate(-40deg);
+    -o-transform: rotate(-40deg);
+    -webkit-transform: rotate(-40deg);
+    transform: rotate(-40deg);
+    bottom: -6px;
   }
+  
   
