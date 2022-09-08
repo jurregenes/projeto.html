@@ -1,5 +1,6 @@
 html{
     background-color: rgb(255, 218, 225);
+
 }
 
 .nome{
@@ -235,7 +236,7 @@ html{
 .img2{
     width: 17px;
     padding: 0 1225px;
-    position: relative;
+    position: absolute;
     margin-left: 30px;
     margin-top: -2%;
 }
@@ -246,7 +247,11 @@ html{
     font-size: 60px;
     position: absolute;
     margin-top: 90px;
-    margin-bottom: 100px;
+    text-decoration: none;
+    border-bottom-style: solid;
+    border-width: 1px;
+
+
 }
 
 .seta {
