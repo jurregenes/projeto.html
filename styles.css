@@ -86,7 +86,7 @@ html{
 
 .name2{
     width: 290px;
-    padding: 15px;
+    padding: 10px;
 }
 
 .last{
@@ -96,7 +96,7 @@ html{
 
 .last2{
     width: 290px;
-    padding: 15px;
+    padding: 10px;
 } 
 
 .last3{
@@ -107,6 +107,12 @@ html{
     padding: 40px;
     width: 100px;
 }
+
+.email2{
+    width: 618px;
+    padding: 10px;
+}  
+
 
 .message{
     padding: 40px;
@@ -120,13 +126,22 @@ html{
 }
 
 .texto3{
-    margin-top: -20%;
+    margin-top: -24%;
     margin-right: 7%;
 }
 
 .last2{
     margin-top: -2%;
     margin-left: 20%;
+}
+
+.last3{
+    margin-top: -2%;
+}
+
+.msg2{
+    width: 610px;
+    padding: 20px;   
 }
 
 .menu2{
