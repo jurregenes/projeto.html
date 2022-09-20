@@ -173,9 +173,10 @@ html{
 }
 
 .menu2 a{
-    margin-left: 10px;
+    margin-left: 20px;
     color: rgb(14, 14, 14);
     font: normal 15px fantasy, verdana, serif;
+
 }
 
 .buraco{
@@ -393,4 +394,12 @@ html{
     border-width: 1px;
     margin-left: 210px;
 
+}
+
+.img3{
+    width: 28px;
+    padding: 0 1175px;
+    margin-left: 40px;
+    position: absolute;
+ 
 }
