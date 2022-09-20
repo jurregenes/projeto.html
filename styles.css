@@ -81,7 +81,7 @@ html{
 .name{
     padding: 40px;
     width: 100px;
-    
+    font-family:  "Lucida Console", "Courier New", monospace; 
 }
 
 .name2{
@@ -113,6 +113,7 @@ html{
 .email{
     padding: 40px;
     width: 100px;
+    font-family:  "Lucida Console", "Courier New", monospace;
 }
 
 .email2{
@@ -128,6 +129,7 @@ html{
     padding: 40px;
     width: 100px;
     margin-top: -3%; 
+    font-family:  "Lucida Console", "Courier New", monospace;
 }
 
 .buttom2{
@@ -142,6 +144,7 @@ html{
 .texto3{
     margin-top: -25%;
     margin-left: 40px;
+    font-family:  "Lucida Console", "Courier New", monospace;
 }
 
 .last2{
@@ -152,6 +155,7 @@ html{
 .last3{
     margin-top: -2%;
     margin-left: 380px;
+    font-family:  "Lucida Console", "Courier New", monospace;
 }
 
 .msg2{
