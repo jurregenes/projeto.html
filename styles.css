@@ -6,6 +6,7 @@ html{
     color:  rgb(199, 10, 10);
     font: normal 25px fantasy, verdana, serif; 
     padding: 20px;
+
 }
     
 
@@ -55,17 +56,30 @@ html{
 
 
 .menu{
-    
-    margin-top: -57%;
-    text-align: right;
-    padding: 0 150px;
-    margin-left: 10px;
+    margin-top: -780px;
+    float: right;
+    padding-right: 120px;
+
 }
 
 .menu a{
     margin-left: 10px;
     color: rgb(14, 14, 14);
     font: normal 15px fantasy, verdana, serif;
+}
+
+.img{
+    width: 22px;
+    float: right;
+    padding-right: 70px;
+    margin-top: -780px;
+}
+
+.img2{
+    width: 17px;
+    float: right;
+    padding-right: 40px;
+    margin-top: -777px;
 }
 
 .contato{
@@ -275,23 +289,6 @@ html{
     margin-top: 250px;
 }
 
-.img{
-    width: 28px;
-    padding: 0 1175px;
-    margin-top: -57%;
-    margin-left: 40px;
-    position: absolute;
-
-}
-
-.img2{
-    width: 17px;
-    padding: 0 1225px;
-    position: absolute;
-    margin-left: 30px;
-    margin-top: -57%;
-    
-}
 
 .menu3 a{
     color: rgb(199, 10, 10);
