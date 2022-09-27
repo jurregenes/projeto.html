@@ -356,10 +356,12 @@ html{
     margin-top: 170px;
     position: absolute;
     text-decoration: none;
+    padding: 60px 60px 60px 1px;
     border-bottom-style: solid;
     border-width: 1px;
 
   }
+
 
   .twitter a{
     font-family:  "Lucida Console", "Courier New", monospace;
@@ -368,13 +370,11 @@ html{
     margin-top: 170px;
     position: absolute;
     text-decoration: none;
-    border-bottom-style: solid;
-    border-width: 1px;
     margin-left: 170px;
-    
+    padding: 60px 60px 60px 1px;
   }
 
-.instagram2 a{
+ .instagram2 a{
     font-family:  "Lucida Console", "Courier New", monospace;
     font-size: 30px;
     color: rgb(199, 10, 10);
@@ -382,9 +382,7 @@ html{
     margin-left: 40px;
     position: absolute;
     text-decoration: none;
-    border-bottom-style: solid;
-    border-width: 1px; 
-}
+ }
 
 .twitter2 a{
     font-family:  "Lucida Console", "Courier New", monospace;
