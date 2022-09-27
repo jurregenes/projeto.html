@@ -57,8 +57,8 @@ html{
 
 .menu{
     margin-top: -780px;
-    float: right;
-    padding-right: 120px;
+    float: left;
+    padding-left: 1100px;
 
 }
 
@@ -72,7 +72,7 @@ html{
     width: 22px;
     float: right;
     padding-right: 70px;
-    margin-top: -780px;
+    margin-top: -779px;
 }
 
 .img2{
