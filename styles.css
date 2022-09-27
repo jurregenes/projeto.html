@@ -188,7 +188,7 @@ html{
 }
 
 .menu2 a{
-    margin-left: 20px;
+    margin-left: 10px;
     color: rgb(14, 14, 14);
     font: normal 15px fantasy, verdana, serif;
 
@@ -197,7 +197,7 @@ html{
 .buraco{
     color:  rgb(199, 10, 10);
     font-family:  "Lucida Console", "Courier New", monospace;
-    font-size: 30px;
+    font-size: 25px;
     right: 30px;
     padding: 0 40px;
 }
@@ -396,10 +396,15 @@ html{
 }
 
 .img3{
-    width: 28px;
-    padding: 0 1175px;
-    margin-left: 70px;
-    position: absolute;
-    margin-top: -20%;
- 
+    width: 22px;
+    float: right;
+    margin-top: -260px;
+    padding-right: 70px;
+}
+
+.img4{
+    width: 17px;
+    float: right;
+    margin-top: -257px;
+    padding-right: 40px;
 }
