@@ -8,7 +8,7 @@ html{
     font-family:  "Lucida Console", "Courier New", monospace;
     font-size: 25px;
     padding: 20px;
-    padding: 40px 40px;
+    padding: 20px 20px 40px 40px;
     
 
 }
@@ -203,7 +203,7 @@ html{
     font-family:  "Lucida Console", "Courier New", monospace;
     font-size: 25px;
     right: 30px;
-    padding: 40px 40px;
+    padding: 20px 20px 40px 40px;
 }
 
 .texto4{
