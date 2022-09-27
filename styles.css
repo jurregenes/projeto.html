@@ -1,11 +1,15 @@
 html{
     background-color: rgb(255, 229, 234);
+    
 }
 
 .nome{
     color:  rgb(199, 10, 10);
-    font: normal 25px fantasy, verdana, serif; 
+    font-family:  "Lucida Console", "Courier New", monospace;
+    font-size: 25px;
     padding: 20px;
+    padding: 40px 40px;
+    
 
 }
     
@@ -181,7 +185,7 @@ html{
 }
 
 .menu2{
-    margin-top: -30%;
+    margin-top: -33%;
     text-align: right;
     padding: 0 50px;
     margin-right: 70px;
@@ -199,7 +203,7 @@ html{
     font-family:  "Lucida Console", "Courier New", monospace;
     font-size: 25px;
     right: 30px;
-    padding: 0 40px;
+    padding: 40px 40px;
 }
 
 .texto4{
@@ -398,13 +402,13 @@ html{
 .img3{
     width: 22px;
     float: right;
-    margin-top: -260px;
+    margin-top: -300px;
     padding-right: 70px;
 }
 
 .img4{
     width: 17px;
     float: right;
-    margin-top: -257px;
+    margin-top: -298px;
     padding-right: 40px;
 }
