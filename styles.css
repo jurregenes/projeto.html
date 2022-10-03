@@ -6,7 +6,7 @@ html{
 .nome{
     color:  rgb(199, 10, 10);
     font-family:  "Lucida Console", "Courier New", monospace;
-    font-size: 25px;
+    font-size: 30px;
     padding: 20px;
     padding: 20px 20px 40px 40px;
 }
@@ -15,9 +15,9 @@ html{
 .paragrafo{
     margin-top: 400px;
     color:  rgb(199, 10, 10);
-    top: 400px;
+    margin-top: 300px;
     font-family:  "Lucida Console", "Courier New", monospace;
-    font-size: 60px;
+    font-size: 80px;
     width: 800px; 
     padding: 0 40px;
 }
@@ -181,7 +181,7 @@ html{
 .buraco{
     color:  rgb(199, 10, 10);
     font-family:  "Lucida Console", "Courier New", monospace;
-    font-size: 25px;
+    font-size: 30px;
     right: 30px;
     padding: 20px 20px 40px 40px;
 }
